@@ -1,6 +1,6 @@
 <?php
 
-class Etailer_Backorders_Model_Stock_Item extends Mage_CatalogInventory_Model_Stock_Item
+class Etailer_Backorders_Model_Stock_Item extends Ebizmarts_BakerlooRestful_Model_Rewrite_CatalogInventory_Stock_Item
 {
     /**
      * Check quantity
