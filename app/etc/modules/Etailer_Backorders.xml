@@ -5,7 +5,7 @@
             <active>true</active>
             <codePool>community</codePool>
             <depends>
-            	<Ebizmarts_BakerlooRestful_Model_Rewrite_CatalogInventory_Stock_Item/>
+                <Ebizmarts_BakerlooRestful />
             </depends>
             <!--depends /-->
         </Etailer_Backorders>
