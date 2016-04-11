@@ -4,7 +4,10 @@
         <Etailer_Backorders>
             <active>true</active>
             <codePool>community</codePool>
-            <depends />
+            <depends>
+            	<Ebizmarts_BakerlooRestful_Model_Rewrite_CatalogInventory_Stock_Item/>
+            </depends>
+            <!--depends /-->
         </Etailer_Backorders>
     </modules>
 </config>
