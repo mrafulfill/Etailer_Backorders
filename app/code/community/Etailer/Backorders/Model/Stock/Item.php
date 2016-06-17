@@ -20,7 +20,6 @@ class Etailer_Backorders_Model_Stock_Item extends Ebizmarts_BakerlooRestful_Mode
         }
         return true;
     }
-     
      /**
      * Check if item should be in stock or out of stock based on $qty param of existing item qty
      *
